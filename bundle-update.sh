@@ -74,37 +74,37 @@ git commit --all -m general-update
 git push
 echo 'upated audience-zh-tw'
 # beacon
-cd ../beacon-de
+cd ../beacon-support-de
 git pull
 git add --all
 git commit --all -m general-update
 git push
 echo 'upated beacon-de'
-cd ../beacon-es
+cd ../beacon-support-es
 git pull
 git add --all
 git commit --all -m general-update
 git push
 echo 'upated beacon-es'
-cd ../beacon-fr
+cd ../beacon-support-fr
 git pull
 git add --all
 git commit --all -m general-update
 git push
 echo 'upated beacon-fr'
-cd ../beacon-ja
+cd ../beacon-support-ja
 git pull
 git add --all
 git commit --all -m general-update
 git push
 echo 'upated beacon-ja'
-cd ../beacon-ko
+cd ../beacon-support-ko
 git pull
 git add --all
 git commit --all -m general-update
 git push
 echo 'upated beacon-ko'
-cd ../beacon-zh-tw
+cd ../beacon-support-zh-tw
 git pull
 git add --all
 git commit --all -m general-update

@@ -134,7 +134,7 @@ git commit --all -m general-update
 git push
 echo 'updated audience-zh-tw'
 # beacon
-cd ../beacon-de
+cd ../beacon-support-de
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace
@@ -145,7 +145,7 @@ git add --all
 git commit --all -m general-update
 git push
 echo 'updated beacon-de'
-cd ../beacon-es
+cd ../beacon-support-es
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace
@@ -156,7 +156,7 @@ git add --all
 git commit --all -m general-update
 git push
 echo 'updated beacon-es'
-cd ../beacon-fr
+cd ../beacon-support-fr
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace
@@ -167,7 +167,7 @@ git add --all
 git commit --all -m general-update
 git push
 echo 'updated beacon-fr'
-cd ../beacon-ja
+cd ../beacon-support-ja
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace
@@ -178,7 +178,7 @@ git add --all
 git commit --all -m general-update
 git push
 echo 'updated beacon-ja'
-cd ../beacon-ko
+cd ../beacon-support-ko
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace
@@ -189,7 +189,7 @@ git add --all
 git commit --all -m general-update
 git push
 echo 'updated beacon-ko'
-cd ../beacon-zh-tw
+cd ../beacon-support-zh-tw
 git pull
 sudo bundle update
 sudo bundle exec jekyll build --trace

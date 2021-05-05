@@ -38,22 +38,22 @@ cd ../audience-zh-tw
 git pull
 echo 'pulled audience-zh-tw'
 # beacon
-cd ../beacon-de
+cd ../beacon-support-de
 git pull
 echo 'pulled beacon-de'
-cd ../beacon-es
+cd ../beacon-support-es
 git pull
 echo 'pulled beacon-es'
-cd ../beacon-fr
+cd ../beacon-support-fr
 git pull
 echo 'pulled beacon-fr'
-cd ../beacon-ja
+cd ../beacon-support-ja
 git pull
 echo 'pulled beacon-ja'
-cd ../beacon-ko
+cd ../beacon-support-ko
 git pull
 echo 'pulled beacon-ko'
-cd ../beacon-zh-tw
+cd ../beacon-support-zh-tw
 git pull
 echo 'pulled beacon-zh-tw'
 # campaign

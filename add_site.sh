@@ -50,27 +50,27 @@ rm -r ./_site/_site
 
 echo 'pulled audience-zh-tw'
 # beacon
-cd ../beacon-de
+cd ../beacon-support-de
 rm -r ./_site/_site
 
 echo 'pulled beacon-de'
-cd ../beacon-es
+cd ../beacon-support-es
 rm -r ./_site/_site
 
 echo 'pulled beacon-es'
-cd ../beacon-fr
+cd ../beacon-support-fr
 rm -r ./_site/_site
 
 echo 'pulled beacon-fr'
-cd ../beacon-ja
+cd ../beacon-support-ja
 rm -r ./_site/_site
 
 echo 'pulled beacon-ja'
-cd ../beacon-ko
+cd ../beacon-support-ko
 rm -r ./_site/_site
 
 echo 'pulled beacon-ko'
-cd ../beacon-zh-tw
+cd ../beacon-support-zh-tw
 rm -r ./_site/_site
 
 echo 'pulled beacon-zh-tw'
