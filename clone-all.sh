@@ -1,5 +1,5 @@
 sudo chmod -R g+w /Users/rcrooks/gitloc
-sitesArray = ("apis-de" "apis-es" "apis-fr" "apis-ja" "apis-ko" "apis-zh-tw" "audience-de" "audience-es" "audience-fr" "audience-ja" "audience-ko" "audience-zh-tw" "beacon-de" "beacon-es" "beacon-fr" "beacon-ja" "beacon-ko" "beacon-zh-tw")
+sitesArray = ("apis-de" "apis-es" "apis-fr" "apis-ja" "apis-ko" "apis-zh-tw" "audience-de" "audience-es" "audience-fr" "audience-ja" "audience-ko" "audience-zh-tw" "beacon-de" "beacon-es" "beacon-fr" "beacon-ja" "beacon-ko" "beacon-zh-tw" "beacon-support-de" "beacon-support-es" "beacon-support-fr" "beacon-support-ja" "beacon-support-ko" "beacon-support-zh-tw" "campaign-de" "campaign-es" "campaign-fr" "campaign-ja" "campaign-ko" "campaign-zh-tw" "docs-support-home-de" "docs-support-home-es" "docs-support-home-fr" "docs-support-home-ja" "docs-support-home-ko" "docs-support-home-zh-tw" "engage-de" "engage-es" "engage-fr" "engage-ja" "engage-ko" "engage-zh-tw")
 # apis
 cd ..
 git clone https://github.com/BrightcoveLearning/apis-de.git
