@@ -1,4 +1,4 @@
-sudo chmod -R g+w /Users/rcrooks/github
+sudo chmod -R g+w /Users/rcrooks/git-loc
 FILES=find /Users/rcrooks/GitHub/Japanese -name '*.html'
 for f in $FILES
 do
@@ -19,4 +19,4 @@ done
 
 find . -name '*.html' -exec iconv --verbose -f ISO-8859-1 -t utf-8 {} {} \;
 
-find /Users/rcrooks/translations -type f -name '*.html' -exec perl -e 's/\xef\xbb\xbf//;' -pi {} \;
+find /Users/rcrooks/git-loc/docs-support-home-ja -type f -name '*.html' -exec perl -e 's/\xef\xbb\xbf//;' -pi {} \;

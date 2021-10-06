@@ -1,4 +1,4 @@
-sudo chmod -R g+w /Users/rcrooks/github
+sudo chmod -R g+w /Users/rcrooks/git-loc
 # apis
 cd ../apis-de
 git pull
