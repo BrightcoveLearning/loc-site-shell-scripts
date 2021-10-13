@@ -19,4 +19,4 @@ done
 
 find . -name '*.html' -exec iconv --verbose -f ISO-8859-1 -t utf-8 {} {} \;
 
-find /Users/rcrooks/git-loc/docs-support-home-ja -type f -name '*.html' -exec perl -e 's/\xef\xbb\xbf//;' -pi {} \;
+find /Users/rcrooks/git-loc/engage-ja -type f -name '*.html' -exec perl -e 's/\xef\xbb\xbf//;' -pi {} \;
