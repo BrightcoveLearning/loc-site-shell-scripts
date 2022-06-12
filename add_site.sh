@@ -1,4 +1,4 @@
-sudo chmod -R g+w /Users/rcrooks/git-loc
+sudo chmod -R g+w ~/git-loc
 # apis
 cd ../apis-de
 rm -r ./_site/_site
